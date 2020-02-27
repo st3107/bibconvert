@@ -15,6 +15,8 @@ from bibconvert.main import main
 )
 def test_main(test_case, expect):
     output_file = Path(test_case[1])
+    if output_file.exists():
+        output_file.unlink()
     main(*test_case)
     expect_file = Path(expect)
     with output_file.open("r", encoding="utf-8") as f0:
