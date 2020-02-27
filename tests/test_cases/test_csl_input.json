@@ -1,0 +1,103 @@
+[
+  {
+    "id": "http://zotero.org/users/4804846/items/NY6YDMXJ",
+    "type": "article-journal",
+    "abstract": "Topological transitions between considerably different phases typically require harsh conditions to collectively break chemical bonds and overcome the stress caused to the original structure by altering its correlated bond environment. In this work we present a case system that can achieve rapid rearrangement of the whole lattice of a metal–organic framework through a domino alteration of the bond connectivity under mild conditions. The system transforms from a disordered metal–organic framework with low porosity to a highly porous and crystalline isomer within 40 s following activation (solvent exchange and desolvation), resulting in a substantial increase in surface area from 725 to 2,749 m2 g–1. Spectroscopic measurements show that this counter-intuitive lattice rearrangement involves a metastable intermediate that results from solvent removal on coordinatively unsaturated metal sites. This disordered–crystalline switch between two topological distinct metal–organic frameworks is shown to be reversible over four cycles through activation and reimmersion in polar solvents.",
+    "container-title": "Nature Chemistry",
+    "DOI": "10.1038/s41557-019-0364-0",
+    "ISSN": "1755-4349",
+    "issue": "1",
+    "journalAbbreviation": "Nature Chemistry",
+    "page": "90-97",
+    "title": "Rapid desolvation-triggered domino lattice rearrangement in a metal–organic framework",
+    "URL": "https://doi.org/10.1038/s41557-019-0364-0",
+    "volume": "12",
+    "author": [
+      {
+        "family": "Lo",
+        "given": "Sheng-Han"
+      },
+      {
+        "family": "Feng",
+        "given": "Liang"
+      },
+      {
+        "family": "Tan",
+        "given": "Kui"
+      },
+      {
+        "family": "Huang",
+        "given": "Zhehao"
+      },
+      {
+        "family": "Yuan",
+        "given": "Shuai"
+      },
+      {
+        "family": "Wang",
+        "given": "Kun-Yu"
+      },
+      {
+        "family": "Li",
+        "given": "Bing-Han"
+      },
+      {
+        "family": "Liu",
+        "given": "Wan-Ling"
+      },
+      {
+        "family": "Day",
+        "given": "Gregory S."
+      },
+      {
+        "family": "Tao",
+        "given": "Songsheng"
+      },
+      {
+        "family": "Yang",
+        "given": "Chun-Chuen"
+      },
+      {
+        "family": "Luo",
+        "given": "Tzuoo-Tsair"
+      },
+      {
+        "family": "Lin",
+        "given": "Chia-Her"
+      },
+      {
+        "family": "Wang",
+        "given": "Sue-Lein"
+      },
+      {
+        "family": "Billinge",
+        "given": "Simon J. L."
+      },
+      {
+        "family": "Lu",
+        "given": "Kuang-Lieh"
+      },
+      {
+        "family": "Chabal",
+        "given": "Yves J."
+      },
+      {
+        "family": "Zou",
+        "given": "Xiaodong"
+      },
+      {
+        "family": "Zhou",
+        "given": "Hong-Cai"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          "2020",
+          1,
+          1
+        ]
+      ]
+    }
+  }
+]
