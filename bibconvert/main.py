@@ -22,5 +22,5 @@ def main(input_file: str, output_file: str, file_type: str = "csl"):
     return
 
 
-if __name__ == "__main___":
+if __name__ == "__main__":
     fire.Fire(main)

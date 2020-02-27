@@ -22,7 +22,6 @@ class Converter:
     docs : List[dict]
         The documentations of citations.
     """
-
     def __init__(self, file_path: str, file_type: str):
         """
         Initiate the class instance.
