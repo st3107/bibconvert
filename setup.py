@@ -10,11 +10,11 @@ setuptools.setup(
     description="A CLI program to convert citation files to a rg-db-public citation style yaml files",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="",
+    url="https://github.com/st3107/bibconvert",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
-        "License :: ",
+        "License :: OSI Approved :: BSD License",
         "Operating System :: OS Independent",
     ],
     python_requires='>=3.6',
