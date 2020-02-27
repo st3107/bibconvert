@@ -1,7 +1,7 @@
 import json
 from pathlib import Path
 
-import yaml
+from ruamel.yaml import YAML
 
 from bibconvert.parsers import *
 
@@ -73,6 +73,8 @@ class Converter:
         yaml_file
             The path to the yaml file.
         """
+        yaml = YAML()
+        yaml.indent(offset=2)
         yaml_file = Path(yaml_file)
         docs = self.parsed_docs
         with yaml_file.open('w', encoding='utf-8') as f:
